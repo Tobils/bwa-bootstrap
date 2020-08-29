@@ -11,6 +11,25 @@
     border: 0;
 }
 
+.btn-secondary {
+    background:none;
+    border: 1px solid black;
+    padding: 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #173A56;
+
+}
+
+.btn-secondary:hover {
+    background: none;
+    border: 1px solid rgb(159, 177, 197);
+    color: #173A56;
+}
+
+
+
+
 .herobwa h1 {
     font-family: 'Poppins';
     font-weight: bold;
@@ -20,3 +39,11 @@
     font-family: 'Poppins';
     font-weight: 300;
 }
+
+
+@media only screen and (max-width: 768px) { 
+    .btn-primary, .btn-secondary {
+        margin-top: 10px;
+        margin-left: 0 !important;
+    }
+ }
