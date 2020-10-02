@@ -6,7 +6,7 @@ Bootstrap adalah sebuah framework css yang dapat mempermudah kita dalam pembuata
 
 Daftar Tutorial Bootstrap 4
 
-* 1. [Cara Install Bootstrap 4](https://www.bewoksatukosong.com/2019/02/cara-install-bootstrap-4-part-1.html)
+* [Cara Install Bootstrap 4](https://www.bewoksatukosong.com/2019/02/cara-install-bootstrap-4-part-1.html)
 * [Belajar Mengenai Layout Grid Bootstrap 4](https://www.bewoksatukosong.com/2019/02/cara-memahami-grid-layout-bootstrap-4.html)
 * [Belajar Mengenai Navigation Bar Bootstrap 4](https://www.bewoksatukosong.com/2019/02/belajar-navigation-bar-bootstrap4.html)
 * [Belajar Mengenai Popup Atau Modal Bootstrap 4](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-pop-up-atau-modal-bootstrap-4.html)
